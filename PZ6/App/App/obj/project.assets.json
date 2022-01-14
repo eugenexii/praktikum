@@ -54,11 +54,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\oldman\\Documents\\GitHub\\practicum\\pz6\\App\\App\\App.csproj",
+      "projectUniqueName": "C:\\Users\\oldman\\Documents\\GitHub\\praktikum\\PZ6\\App\\App\\App.csproj",
       "projectName": "App",
-      "projectPath": "C:\\Users\\oldman\\Documents\\GitHub\\practicum\\pz6\\App\\App\\App.csproj",
+      "projectPath": "C:\\Users\\oldman\\Documents\\GitHub\\praktikum\\PZ6\\App\\App\\App.csproj",
       "packagesPath": "C:\\Users\\oldman\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\oldman\\Documents\\GitHub\\practicum\\pz6\\App\\App\\obj\\",
+      "outputPath": "C:\\Users\\oldman\\Documents\\GitHub\\praktikum\\PZ6\\App\\App\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
